@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Preetham Bhandary - Developer Portfolio
+
+**Live Demo**: [https://portfolio-nine-murex-47.vercel.app/](https://portfolio-nine-murex-47.vercel.app/)
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
 
 ## How can I edit this code?
 
